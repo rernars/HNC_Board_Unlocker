@@ -6,4 +6,3 @@ HNC kilit uygulamasını açan usb kart okuyucuyu taklit ederek yetkili bir kart
 
 UYARI: Kodu kullanırken tüm sorumluluk size aittir herhang bir mesuliyet kabul etmiyorum.
 
-Yardım / şikayetler için : emosarslan16@gmail.com
